@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/math.js"],"names":[],"mappings":";;;;;AAAA,SAAS,GAAT,CAAa,CAAb,EAAgB,CAAhB,EAAkB;AAChB,SAAO,IAAI,CAAJ,CADS;CAAlB;;AAIA,IAAI,OAAO;AACT,UADS;CAAP;;kBAIW","file":"math.js","sourcesContent":["function add(a, b){\n  return a + b;\n}\n\nvar math = {\n  add\n};\n\nexport default math;\n"]}

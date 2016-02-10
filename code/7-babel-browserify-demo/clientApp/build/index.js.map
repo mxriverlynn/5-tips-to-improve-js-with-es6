@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":[],"mappings":";;;;;;;;AAEA,QAAQ,GAAR,CAAY,WAAZ,EAAyB,eAAO,GAAP,CAAW,CAAX,EAAc,GAAd,CAAzB","file":"index.js","sourcesContent":["import myMath from \"./math\";\n\nconsole.log(\"2 + 234 =\", myMath.add(2, 234));\n"]}

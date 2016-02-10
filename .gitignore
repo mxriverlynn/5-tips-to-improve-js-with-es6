@@ -1,0 +1,10 @@
+.DS_Store
+/deploy
+/build/reports
+/database
+node_modules
+npm-debug.log
+*.swp
+*.swo
+*.sw0
+*.orig
